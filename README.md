@@ -30,7 +30,7 @@ The model uses publicly available Airbnb datasets, which include detailed inform
 </ul>
 
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/sreenijakurra/AirBnB-Zero-Shot-Analysis/main/zeroshotmodelalteryx.png" />
+  <img src="https://raw.githubusercontent.com/sreenijakurra/AirBnB-Zero-Shot-Analysis/main/Zeroshotmodelalteryx.png"  width="500"/>
 </div>
 
 <h2>Use Cases</h2>
