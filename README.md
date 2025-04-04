@@ -11,7 +11,7 @@ Clustering Airbnb hosts based on review types, focusing on key words related to 
 Zero-shot Text Classification requires no training data and easy to add new input data. It is great for classifying text into well-known categories that aren’t highly specialized or expertise-dependent.
 
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/sreenijakurra/AirBnB-Zero-Shot-Analysis/main/negativekeywords.png" />
+  <img width="500" src="https://raw.githubusercontent.com/sreenijakurra/AirBnB-Zero-Shot-Analysis/main/Negativekeywords.png" />
 </div>
 
 
