@@ -1,3 +1,10 @@
+<p>
+  <img src="https://raw.githubusercontent.com/abhi8699/assets/main/alteryx-square.png" alt="Alteryx Logo" width="80"/>
+</p>
+
+
+
+
 # AirBnB-Zero-Shot-Analysis
 Clustering Airbnb hosts based on review types, focusing on key words related to cleanliness across NYC's five boroughs. This helps identify why listings get negative feedback and offers suggestions to improve property appearance and guest experience, ultimately boosting bookings and host income.
 
@@ -88,3 +95,37 @@ Given these considerations, our project will strategically concentrate on four k
 <p>
 By focusing on these boroughs, we aim to develop targeted strategies that can meaningfully improve Airbnb hosting experiences, property standards, and ultimately, guest satisfaction.
 </p>
+
+
+<h3>References</h3>
+
+<ul>
+  <li>
+    <a href="https://insideAirbnb.com/new-york-city/" target="_blank">
+      Airbnb Listings, Reviews dataset
+    </a>
+  </li>
+  <li>
+    <a href="https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit?gid=1322284596#gid=1322284596" target="_blank">
+      Airbnb Data Dictionary (Google Sheets)
+    </a>
+  </li>
+  <li>
+    <a href="https://community.alteryx.com/t5/Data-Science/Text-Classification-in-Alteryx/ba-p/1233776" target="_blank">
+      Text Classification in Alteryx (Alteryx Community)
+    </a>
+  </li>
+  <li>
+    ChatGPT for data cleansing
+  </li>
+  <li>
+    <a href="https://community.tableau.com/s/question/0D54T00000C5PhDSAV/combining-zipcode-data-and-link-it-to-neigbourhood-data" target="_blank">
+      Tableau Community: Combining Zip Code & Neighborhood Data
+    </a>
+  </li>
+  <li>
+    <a href="https://medium.com/@aimanmaznan/crafting-business-insights-a-guide-to-tableau-visualizations-for-airbnb-business-owners-aa5136c34c1a" target="_blank">
+      Guide to Tableau Visualizations for Airbnb Business Owners (Medium)
+    </a>
+  </li>
+</ul>
