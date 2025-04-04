@@ -29,7 +29,9 @@ The model uses publicly available Airbnb datasets, which include detailed inform
   <li><strong>Host Information:</strong> Host’s identification, host verification, response rate, host’s listings, etc.</li>
 </ul>
 
-<br>
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/sreenijakurra/AirBnB-Zero-Shot-Analysis/main/zeroshotmodelalteryx.png" />
+</div>
 
 <h2>Use Cases</h2>
 <p><strong>For Hosts:</strong></p>
