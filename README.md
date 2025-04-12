@@ -5,7 +5,7 @@
 
 
 
-# AirBnB-Zero-Shot-Analysis
+# AirBnB-Zero-Shot-Analysis on Alteryx
 Clustering Airbnb hosts based on review types, focusing on key words related to cleanliness across NYC's five boroughs. This helps identify why listings get negative feedback and offers suggestions to improve property appearance and guest experience, ultimately boosting bookings and host income.
 
 Zero-shot Text Classification requires no training data and easy to add new input data. It is great for classifying text into well-known categories that aren’t highly specialized or expertise-dependent.
@@ -60,7 +60,7 @@ Our analysis revealed that positive reviews significantly outnumber negative rev
 </p>
 
 <p>
-The scatter plot provides critical insights into review scores across different Airbnb hosts. The data strongly supports our hypothesis about cleanliness as a key factor in improving Airbnb revenue potential. By analyzing the x-axis of negative keywords against the y-axis of average review scores, several interesting patterns emerge.
+The scatter plot designed on Tableau provides critical insights into review scores across different Airbnb hosts. The data strongly supports our hypothesis about cleanliness as a key factor in improving Airbnb revenue potential. By analyzing the x-axis of negative keywords against the y-axis of average review scores, several interesting patterns emerge.
 </p>
 
 <p>
