@@ -33,6 +33,8 @@ The model uses publicly available Airbnb datasets, which include detailed inform
   <img src="https://raw.githubusercontent.com/sreenijakurra/AirBnB-Zero-Shot-Analysis/main/Zeroshotmodelalteryx.png"  width="500"/>
 </div>
 
+The other half of the project is AirBnB price prediction analysis done on Alteryx regression model. As per this repo, I will focus on Zero-Shot Classification.
+ 
 <h2>Use Cases</h2>
 <p><strong>For Hosts:</strong></p>
 <ul>
